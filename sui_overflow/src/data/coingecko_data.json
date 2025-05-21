@@ -1,0 +1,112 @@
+{
+  "coinList": [
+    "sui",
+    "walrus-2",
+    "deep",
+    "cetus-protocol",
+    "suins-token",
+    "navi",
+    "suilend",
+    "bluefin"
+  ],
+  "coinInfo": {
+    "sui": {
+      "id": "sui",
+      "name": "Sui",
+      "symbol": "sui",
+      "current_price": 3.86,
+      "market_cap": 12885504549,
+      "total_volume": 1213224330,
+      "price_change_percentage_30d": 84.89059,
+      "circulating_supply": 3338327017.911665,
+      "total_supply": 10000000000.0
+    },
+    "walrus-2": {
+      "id": "walrus-2",
+      "name": "Walrus",
+      "symbol": "wal",
+      "current_price": 0.636704,
+      "market_cap": 795682826,
+      "total_volume": 29869951,
+      "price_change_percentage_30d": 54.4405,
+      "circulating_supply": 1250000000.0,
+      "total_supply": 5000000000.0
+    },
+    "deep": {
+      "id": "deep",
+      "name": "DeepBook",
+      "symbol": "deep",
+      "current_price": 0.183095,
+      "market_cap": 457905072,
+      "total_volume": 30271772,
+      "price_change_percentage_30d": 125.8373,
+      "circulating_supply": 2500000000.0,
+      "total_supply": 10000000000.0
+    },
+    "cetus-protocol": {
+      "id": "cetus-protocol",
+      "name": "Cetus Protocol",
+      "symbol": "cetus",
+      "current_price": 0.199574,
+      "market_cap": 144698294,
+      "total_volume": 19619433,
+      "price_change_percentage_30d": 95.31171,
+      "circulating_supply": 725009941.4145037,
+      "total_supply": 1000000000.0
+    },
+    "suins-token": {
+      "id": "suins-token",
+      "name": "SuiNS Token",
+      "symbol": "ns",
+      "current_price": 0.245124,
+      "market_cap": 38062705,
+      "total_volume": 6108884,
+      "price_change_percentage_30d": 64.12951,
+      "circulating_supply": 155302085.076389,
+      "total_supply": 500000000.0
+    },
+    "navi": {
+      "id": "navi",
+      "name": "NAVI Protocol",
+      "symbol": "navx",
+      "current_price": 0.06738,
+      "market_cap": 38810448,
+      "total_volume": 24038129,
+      "price_change_percentage_30d": 69.13725,
+      "circulating_supply": 576047447.17,
+      "total_supply": 1000000000.0
+    },
+    "suilend": {
+      "id": "suilend",
+      "name": "Suilend",
+      "symbol": "send",
+      "current_price": 0.664606,
+      "market_cap": 32388188,
+      "total_volume": 983965,
+      "price_change_percentage_30d": 45.86172,
+      "circulating_supply": 48730741.3,
+      "total_supply": 100000000.0
+    },
+    "bluefin": {
+      "id": "bluefin",
+      "name": "Bluefin",
+      "symbol": "blue",
+      "current_price": 0.106378,
+      "market_cap": 32522375,
+      "total_volume": 62989594,
+      "price_change_percentage_30d": 59.81188,
+      "circulating_supply": 305592958.0,
+      "total_supply": 1000000000.0
+    }
+  },
+  "coinWeight": {
+    "sui": 0.8932403064716302,
+    "walrus-2": 0.055157791349785414,
+    "deep": 0.03174258837073916,
+    "cetus-protocol": 0.010030678114852145,
+    "suins-token": 0.00263855731454286,
+    "navi": 0.00269039185341886,
+    "suilend": 0.0022451922518956363,
+    "bluefin": 0.00225449427313576
+  }
+}
